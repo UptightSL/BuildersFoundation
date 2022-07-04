@@ -1,8 +1,8 @@
 {
     "format_version": 2,
     "header": {
-        "name": "BF_BP",
-        "description": "Behavior pack created for Builders Foundation. See Github repository for more information about reuse: https://github.com/uptightsl/buildersfoundation",
+        "name": "pack.name",
+        "description": "pack.description",
         "min_engine_version": [1, 19, 0],
 		"uuid": "ec9eceb8-da16-4f7f-8c4d-97732d863499",
         "version": [0, 1, 0]
