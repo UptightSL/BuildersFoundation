@@ -1,3 +1,10 @@
 {
-    "Notice": "Will probably never be used in a hundred years. Everything is based around **COMMANDS**."
+    "format_version": 1,
+    "header": {
+        "name": "BF_RP",
+        "description": "Resource pack for Builders Foundation. More information at: https://github.com/uptightsl/",
+        "uuid": "b193fdff-0d8d-48f9-b854-033c4f4c6663",
+        "version": [0, 1, 0],
+        "min_engine_version"
+    }
 }
